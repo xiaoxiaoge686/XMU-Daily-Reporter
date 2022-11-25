@@ -204,7 +204,7 @@ github上的个人信息会被加密存储。如果你选择用自己的设备�
 0. 装C++编译环境（Windows上安装Visual Studio，Linux上安装gcc/clang）  
 1. 安装vcpkg        
 2. 用vcpkg安装第三方库          
-3. 使用IDE，或者直接使用cmake编译本项目
+3. 使用IDE，或者直接使用cmake编译本项目 
 
 许多IDE都支持CMAKE工程，如Visual Studio，CLION，安装好cmake插件的Visual Studio Code。
 
